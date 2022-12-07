@@ -4,8 +4,9 @@ import { ProtocolDefinition } from "../types";
 // @ts-ignore
 export default {
   name: "prePO",
-  description: "The Decentralized Exchange for Pre-IPO Stocks & Pre-IDO Tokens.",
-  logoUrl: "https://svgshare.com/i/now.svg",
+  description:
+    "The Decentralized Exchange for Pre-IPO Stocks & Pre-IDO Tokens. Read token FAQ first: https://docs.prepo.io/faq#token",
+  logoUrl: "https://storageapi.fleek.co/d7243aa9-aea9-43cf-8205-0ce1dd1696eb-bucket/prePO%20Logo.svg",
   links: {
     governanceVote: "https://snapshot.org/#/prepo.eth",
     homepage: "https://prepo.io/",
