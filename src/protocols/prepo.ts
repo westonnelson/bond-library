@@ -17,8 +17,10 @@ export default {
     github: "https://github.com/prepo-io",
   },
   issuerAddresses: {
-    [CHAIN_ID.ARBITRUM_MAINNET]: "0xe5011a7cc5CDA29F02CE341B2847B58abEFA7c26",
-    [CHAIN_ID.ARBITRUM_MAINNET]: "0x30ED5C7e4aB5a46AbB2c29C44a534cBcE6ED5623",
+    [CHAIN_ID.ARBITRUM_MAINNET]: [
+      "0xe5011a7cc5CDA29F02CE341B2847B58abEFA7c26",
+      "0x30ED5C7e4aB5a46AbB2c29C44a534cBcE6ED5623",
+    ],
   },
   tokens: [
     {
