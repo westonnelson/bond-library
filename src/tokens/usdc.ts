@@ -12,6 +12,7 @@ export default {
   purchaseLinks: {
     [CHAIN_ID.ETHEREUM_MAINNET]: "https://curve.fi/",
     [CHAIN_ID.ARBITRUM_MAINNET]: "https://app.sushi.com/swap",
+    [CHAIN_ID.ARBITRUM_MAINNET]: "https://saddle.exchange/#/",
     [CHAIN_ID.GOERLI_TESTNET]: "https://app.compound.finance/",
   },
   priceSources: [{ source: "coingecko", apiId: "usd-coin" }],
